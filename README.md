@@ -1,6 +1,6 @@
 # BattleScript
 
-http://battlescript.tk
+http://battlescript.tk (no longer available)
 
 Programming can be challenging and boring, but it doesn't have to be. Battlescripts makes programming concepts easy to grasp by playing cards to execute code. Engage and interact with other users to develop new skills and enjoy coding!
 
